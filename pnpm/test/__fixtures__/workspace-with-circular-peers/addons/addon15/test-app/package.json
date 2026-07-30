@@ -16,7 +16,7 @@
         "addon12": "workspace:*",
         "addon13": "workspace:*",
         "addon15": "workspace:*",
-        "@babel/core": "~7.24.7",
+        "@babel/core": "~7.29.6",
         "@babel/plugin-transform-class-static-block": "~7.24.7",
         "@ember-data/adapter": "~4.12.8",
         "@ember/optional-features": "~2.1.0",
@@ -44,7 +44,7 @@
         "@types/sinonjs__fake-timers": "^6.0.2",
         "@typescript-eslint/eslint-plugin": "~6.21.0",
         "@typescript-eslint/parser": "~6.21.0",
-        "body-parser": "^1.15.1",
+        "body-parser": "^2.3.0",
         "broccoli-asset-rev": "~3.0.0",
         "css-loader": "~7.1.2",
         "ember-a11y-testing": "~7.0.1",
@@ -101,6 +101,6 @@
         "stylelint-prettier": "~3.0.0",
         "stylelint-scss": "~6.1.0",
         "typescript": "5.3.3",
-        "webpack": "~5.94.0"
+        "webpack": "~5.109.2"
     }
 }

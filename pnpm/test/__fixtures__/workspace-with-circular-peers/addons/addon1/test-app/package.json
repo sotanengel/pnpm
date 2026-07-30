@@ -5,7 +5,7 @@
     "devDependencies": {
         "addon1": "workspace:*",
         "module6": "workspace:*",
-        "@babel/core": "~7.24.7",
+        "@babel/core": "~7.29.6",
         "@babel/plugin-transform-class-static-block": "~7.24.7",
         "@ember/optional-features": "~2.1.0",
         "@ember/string": "~3.1.1",
@@ -56,6 +56,6 @@
         "qunit": "~2.21.0",
         "qunit-dom": "~2.0.0",
         "typescript": "5.3.3",
-        "webpack": "~5.94.0"
+        "webpack": "~5.109.2"
     }
 }
