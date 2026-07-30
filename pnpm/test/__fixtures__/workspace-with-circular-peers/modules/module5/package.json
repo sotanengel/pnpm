@@ -2,7 +2,7 @@
     "name": "module5",
     "version": "1.0.0",
     "devDependencies": {
-        "@babel/core": "~7.24.7",
+        "@babel/core": "~7.29.6",
         "@babel/eslint-parser": "~7.22.15",
         "@babel/plugin-transform-class-properties": "^7.23.3",
         "@babel/plugin-proposal-decorators": "~7.23.2",

@@ -6,7 +6,7 @@
         "module3": "workspace:*",
         "module6": "workspace:*",
         "addon11": "workspace:*",
-        "@babel/core": "~7.24.7",
+        "@babel/core": "~7.29.6",
         "@babel/plugin-transform-class-static-block": "~7.24.7",
         "@ember/optional-features": "~2.1.0",
         "@ember/render-modifiers": "~2.1.0",
@@ -68,6 +68,6 @@
         "stylelint-prettier": "~3.0.0",
         "stylelint-scss": "~6.1.0",
         "typescript": "5.3.3",
-        "webpack": "~5.94.0"
+        "webpack": "~5.109.2"
     }
 }

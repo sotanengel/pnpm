@@ -2,7 +2,7 @@
     "name": "module4",
     "version": "1.0.0",
     "devDependencies": {
-        "@babel/core": "~7.24.7",
+        "@babel/core": "~7.29.6",
         "@babel/preset-env": "~7.23.9",
         "@jest/globals": "29.7.0",
         "@types/jest": "~29.5.12",
